@@ -1,0 +1,11 @@
+body {
+  background: #060e1b;
+}
+
+canvas{
+  position:absolute;
+   left:0;
+   top:0;
+   z-index:-1;
+   height: max-content;
+}
